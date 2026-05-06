@@ -1,0 +1,4 @@
+# W&B and TensorBoard are now included in requirements.txt.
+# Keep this file as a compatibility alias for any existing setup notes.
+
+-r requirements.txt
